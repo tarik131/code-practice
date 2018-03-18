@@ -1,2 +1,2 @@
 # code-practice
-Basic Code Practice in Java because practice makes a man perfect. Aim for Perfection
+Basic Code Practice in Java because practice makes a man perfect.
